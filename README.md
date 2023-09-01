@@ -102,11 +102,23 @@ por **Kefkadev**
 
 ## Plantica
 
-por **DaniCarco**
+por **DaniCarco y DramaticaTome**
 
 **Tecnología:** Unity
 
 **Puntuación:** dramatica / 10
+
+¡Haz crecer a Plantica! Streamer y viewers tendrán que cuidar a Plantica, haciendo crecer su tallo y sus hojas con el agua del tiesto, para dejarla bien bonica... ¡Pero cuidado! ¡Si no la riegas, sus hojas se marchitarán!
+
+La idea surgió después de una jornada laboral normal de Indie Game Developer (14 horas). Decidí dormir un poco y de repente llamó a mi puerta Dramática y con entusiasmo movió sus hojas. No sé exactamente que quiso decir (No entiendo plantés). Como no la entendí, sus hojas cayeron casi rozando el suelo. Y al verla así... ¡Eureka! Me vino la idea, se lo conté a Dramática y nos pusimos hojas a la obra.
+
+La experiencia de Dani Carco ha sido participar en unas cuantas jams. En cambio Dramática Tomé ha estado en varios tiestos diferentes.
+
+Sobre su desarrollo que podemos decir... *Movimiento de hojas arriba, arriba, abajo, abajo, izquierda, derecha... ABAJO, ABAJO, ABAJO*. Ejem... Drámatica quiere decir que no fue complicado porque la idea fue la más sencilla posible, mi... *Movimiento de hojas* nuestra intención era participar, no nos podíamos quedar fuera, nos hacia mucha ilusión y sacamos tiempo de debajo de las piedras para conseguirlo. Nos hubiera encantado haber hecho algo mejor y pulido para estar a la altura del resto de participantes, pero aún así, estamos felices C:
+
+Posiblemente ha sido la jam más bonita que he participado. Los pedazos de juegos que han hecho el resto, es increíble la cantidad de ideas diferentes que han salido y lo bien ejecutadas, jugarlos en directo con las demás participantes, en diferentes streams, ver la cantidad de timeouts, buen ambiente y risas... En fin, que más puedo decir: Best jam / 10.
+
+Por supuesto pienso... *Movimiento de hojas* pensamos participar en la siguiente <3
 
 ---
 
