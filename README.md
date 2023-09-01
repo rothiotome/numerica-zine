@@ -1,6 +1,6 @@
 [![CC-by-4.0](https://img.shields.io/badge/License-CC-by.svg)](./LICENSE.md/)
 
-## Buttonica
+## THE BUTTONICA
 
 por **RothioTome**
 
