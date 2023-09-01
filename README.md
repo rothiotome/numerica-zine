@@ -120,13 +120,26 @@ por **BlurSoul_, ManzDev y maxi83c**
 
 ---
 
-## Miniminica
+## MiniMinica
 
 por **Elendow**
 
 **Tecnología:** Unity
 
 **Puntuación:** Feel / 10
+
+Cree MiniMinica con la idea de llevar el concepto de juego WarioWare a Numerica, con minijuegos rápidos y variados que cambian de vez en cuando. Como hacerlo por tiempo no me parecía lo más adecuado para algo que depende del chat de Twitch, decidí hacer que el cambio de juego se diera cuando alguien falla el minijuego actual.
+
+Mi idea era añadir unos 6 o 7 minijuegos, todos basados en el sistema de Numerica de responder una pregunta en el chat. Por culpa de no tener suficiente tiempo de desarrollo solo se pudieron hacer 4:
+
+- Piedra, papel, tijera: El juego muestra una mano con una de las 3 opciones y el chat tiene que responder con la ganadora.
+- Fibonacci: Se muestra el inicio de la secuencia de Fibonacci (1, 1) y se tiene que seguir. A medida que se avanza en la secuencia termina por verse solo un número, complicando las cosas.
+- Matemáticas: Operaciones simples con enteros, hay que dar la solución a la ecuación.
+- Color: Aparece el nombre de un color tintado de otro color. Hay que poner en el chat el color del texto, no el nombre del color escrito.
+
+Otras de mis ideas se han aplicado en otras versiones de Numerica, como adivinar el Pokémon, Numerica con números romanos, cosas así.
+
+Al final preferí hacer menos juegos y dejar el envoltorio bonito, con animaciones y "juice" para que los juegos que hubiera fueran más agradables de jugar. Por suerte, la estructura del juego es bastante simple y añadir más juegos es relativamente sencillo, así que es probable que algún día le añada más.
 
 ---
 
