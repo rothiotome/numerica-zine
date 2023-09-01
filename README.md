@@ -194,6 +194,11 @@ por **Psuzume e Ildesir**
 
 **Tecnología:** Unity
 
+NumeriCapy se pensó como una versión entrañable del Numerica original. Se buscaba crear algo con el claro objetivo de que el chat de Twitch colaborase entre sí para alcanzar diferentes logros, quitando el componente competitivo y de premio o castigo individual. 
+En NumeriCapy, el chat del streamer colaborará para que un tierno capybara (carpincho) suba una torre. Cada cierto número de niveles se irán desbloqueando sombreros con los que vestir al roedor. Pero ¡cuidado!, cada vez que chat falle, el animalito caerá de la torre, y perderá tantos puntos de energía como número se haya alcanzado; si la energía se agota por completo, 5 personas deberan animarlo para que vuelva a ponerse en marcha. 
+Esta versión se basa en el funcionamiento del Numerica original, sin cambios. Añade como funciones nuevas, la barra de vida y el desbloqueo de esos cosméticos.
+Respecto al arte, los creadores quisieron hacer un homenaje a “Los animales bobos suben la torre” también de Rothio. Buscaron, además, una estética de cuento infantil donde se ponen pegatinas para ir contando una historia. Algunos de los sombreritos hacen referencia a otros streamers y amigos.
+
 **Puntuación:** MUERTE / 10
 
 ---
@@ -264,6 +269,8 @@ por **Ildesir**
 
 **Tecnología:** Unity
 
+Cofferica, o en sus inicios fasterica, es una versión de numerica donde se pretendia eliminar una practica que se utiliza en el numerica original. Está practica es la de que 2 personas pudieran ganarse el vip jugando solas. Para eliminar esta practica cada vez que se juega un numero entre 3 y 10 personas seran las que no puedan escribir seguido. Además para darle un toque aún más competitivo se añadió un contador de tiempo, el cual, se hace cada vez más rápido cuantos mas aciertos se lleven. A raiz de añadir tiempo se pensó que acotar a un numero concreto ( 50 ) y ver cuanto tiempo hacen las comunidades en llegar a este tiempo. No se eliminó el timeout ni el vip de tal forma que cuando se falle por no escribir a tiempo el útlimo usuario será timeouteado. Para darle más contexto se cambio el tema a algo que pone nervioso pues incluso acertando puedes ser timeouteado, el café. Ese fue el momento donde se cambió el titulo del juego y se hizo que todo girará al rededor del café. El estilo gráfico gira al rededor de los colores del café así como el icono ( una taza de café ). Hay algunas curiosidades muy curiosas sobre el café ¿Te sabes todas?
+
 **Puntuación:** espresso / 10
 
 ---
@@ -293,6 +300,8 @@ por **JesusManzor**
 por **Ildesir**
 
 **Tecnología:** Unity
+
+Numerica+ o la versión malvada de numerica surgio como una idea de darle algo de historia y trasfondo al numerica original. Al ser el numerica original puramente arcade se pretendia llenar ese hueco. En las primeras versiones numerica+ era algo soso no terminaba de convencer pues la historia iba surgiendo a medida que los números iban acertándose. Se decidió más tarde dejar algo de lado toda esa idea, o por lo menos, no ser la parte central y se añadió un toque más a la jugabilidad. En numerica+ cada vez que se acierta un número de la secuencia las reglas del siguiente pueden cambiar entre 10 teniendo más probabilidad la regla de continuar con un +1. Para hacer la versión malvada, no hay posibilidad de cambiar ninguna configuración. Son fijas para todos en un alto timeout y con los mods vulnerables. Parte del desarrollo se hizo en streaming y parte fuera. La razón tras esta decisión fue la no revelar nada de la historia pues se quería conseguir un efecto wow. Con respecto al diseño se decidió mantener idéntico el estilo de numerica original. La parte de la historia quedo "apartada" a un gracioso "easter egg".
 
 **Puntuación:** there is no numerica / 10
 
