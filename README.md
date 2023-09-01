@@ -136,8 +136,6 @@ por **Tita_Kati**
 
 **Tecnología:** Vue
 
-**Puntuación:** HSL / 10
-
 Concebido por la mente maestra detrás de Huezzle, Huezzlelica se podría definir como un "port" de Huezzle para el chat de Twitch o como una mezcla perfecta entre Huezzle y Numerica. Sin embargo, si te detienes a analizarlo, en esencia es simplemente un Numerica de colores, ya que, aparte del nombre y del creador, tiene poco que ver con Huezzle.
 
 En Huezzlelica, se presentan inicialmente dos colores seguidos de una serie de colores etiquetados con números. El objetivo del chat es votar cuál de los colores etiquetados resulta de la mezcla exacta de los dos primeros colores. Si los participantes aciertan, avanzarán de ronda; si fallan, el juego llegará a su fin.
@@ -145,6 +143,8 @@ En Huezzlelica, se presentan inicialmente dos colores seguidos de una serie de c
 Se llevará un registro del día en que el chat alcance su ronda más alta, añadiendo así un enfoque más cooperativo al juego. Para añadirle un toque de emoción, se elegirá aleatoriamente a uno de los jugadores que haya cometido errores durante la partida y se le expulsará injustamente en proporción al número total de errores cometidos durante el juego por todos los jugadores.
 
 Coincidentemente, la Jam empezó el mismo día que se lanzó Huezzle, dejando al desarrollador bastante exhausto. Sin embargo, gracias a su entrenada habilidad para aplicar el concepto de "Producto Mínimo Viable" (MVP, por sus siglas en inglés), logró desarrollarlo en menos de una semana, reciclando código de diversos proyectos. Aunque es sabido que pulió el juego un poco más una vez terminada la Jam, se rumorea que aún planea añadir algunas funcionalidades adicionales.
+
+**Puntuación:** HSL / 10
 
 ---
 
