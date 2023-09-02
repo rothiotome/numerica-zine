@@ -10,15 +10,13 @@ por **RothioTome**
 
 ---
 
-## Inifinitica
+##  ♾ Inifinitica ♾
 
 por **Endorth**
 
 **Tecnología:** Godot
 
 **Puntuación:** -10 / infinito
-
-Infinitica
 
 ¿Sabías que hay infinitos más grandes que otros? Si sumas 2 a un infinito, el resultado es un infinito mayor; Si a su vez este infinito lo multiplicas por 2, ¡obtienes un infinito el doble de grande! Pues imagínate multiplicar un infinito por... ¡OTRO INFINITO!
 
