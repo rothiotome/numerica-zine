@@ -150,7 +150,7 @@ por **BlurSoul_, ManzDev y maxi83c**
 
 **Tecnología:** Javascript
 
-allinérica es el resultado teórico-práctico de haber mezclado dos sustancias experimentales cerca de un gallinero que había próximo a los laboratorios de ManzDevLabs™. En la línea temporal en la que nos encontramos, dicho gallinero ha saltado por los aires y es necesaria tu ayuda para salvar a los pollos implicados en el accidente y devolverlos a su vida normal.
+Gallinérica es el resultado teórico-práctico de haber mezclado dos sustancias experimentales cerca de un gallinero que había próximo a los laboratorios de ManzDevLabs™. En la línea temporal en la que nos encontramos, dicho gallinero ha saltado por los aires y es necesaria tu ayuda para salvar a los pollos implicados en el accidente y devolverlos a su vida normal.
 
 El objetivo del juego está en identificar a tiempo el problema de cada pollo y gallinificarlo™ (devolverlo a su estado normal) mientras esté en la plataforma central.
 
@@ -159,7 +159,9 @@ El desarrollo del juego se ha hecho íntegramente en directo durante 4 días, do
 ManzDev es desarrollador web desde hace ya más de 15 años, pero es el primer juego que desarrolla y publica. Entre sus juegos preferidos se incluyen obras maestras como Undertale, las sagas To the moon o Monkey Island, Rakuen y tantos otros que unen pixel art, narrativa y emociones.
 
 Más sobre el lore y las instrucciones del juego: https://manzdev.itch.io/gallinerica
+
 Más sobre detalles del desarrollo del juego y los directos para verlos: https://github.com/manzdev/gallinerica
+
 Más sobre ManzDev: https://manz.dev/
 
 **Puntuación:** ExtremoTM / 10
