@@ -183,11 +183,30 @@ Coincidentemente, la Jam empezó el mismo día que se lanzó Huezzle, dejando al
 
 ## Carrerica
 
-por **Endorth_4**
+por **Endorth**
 
 **Tecnología:** Godot
 
 **Puntuación:** !join / r
+
+La Real Federación de Carreras de Caracoles me contactó para hacerles un poco de promoción, ya que han detectado que el crecimiento de número de federados durante el último siglo va demasiado lento, me decía Roberto, presidente de la RFCC.
+
+"Queremos algo que sorprenda, algo que devuelva la ilusión a los pequeños de casa para sacar a esas criaturas de sus hábitos naturales, pintarles el carbonato de calcio y meterlos en parqué."
+
+Así que me embadurne de baba de caracol, que dicen que va bien para algo y me puse manos a la obra. Quería algo sencillo, que se entendiera a la primera, me costó al principio, ya que las directrices no eran muy claras, carreras y caracoles eran dos conceptos demasiado dispares, no me cuadraba mucho.
+
+Pensé en tipos de animales, pensé en tipos de competición, pero el último canódromo de Barcelona lo cerraron el 21 de febrero de 2003. Estuve días investigando y pensando en qué podía hacer, hasta que una noche con un sol abrasador se me ocurrió:  carreras... ¡CARRERAS!, de.. De... calamares, ca..., caviar, cab.. ,caballos..., ¡NO! ¡CARACOLES!
+¡CARRERAS DE CARACOLES!
+
+Lo había tenido enfrente todo ese tiempo y no lo había visto, lo tenía. Llamé a Roberto y le encantó la idea, hicieron una fiesta y un desfile de caracoles con pequeñas pancartas con mi nombre, fue el día más feliz de mi vida, conocí a Alfreda.
+
+La gente podría elegir equipo! 5 equipos como los 5 continentes, un juego global, mundial, universal, extra-galáctico; y cada equipo debería contar hasta 10 sin repetir número, y si fallaban volvían a 0.  Lo tenía, había copiado a Numerica, pero eso no lo sabría nadie, porque el éxito que conseguiría ¡Estaría por encima de todas las críticas!
+
+...
+
+Hoy estoy solo y cansado, lo dejé todo por y para este proyecto... Roberto desapareció con el dinero, nunca me pagaron. Mi familia no me habla y lo único que tengo es a una caracol, se llama Alfreda. Sí, la amo, huiremos del país a un lugar mejor, aunque no creo que pasemos del jardín, ella es lenta, no vale para carreras.
+
+Tampoco tengo jardín, llueve.
 
 ---
 
