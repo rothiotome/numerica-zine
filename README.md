@@ -346,7 +346,8 @@ Numerica+ o la versión malvada de numerica surgio como una idea de darle algo d
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+WarChat era una idea que ya tenía antes de esta Jam pero la tenía aparcada. Al enterarme de una jam de juegos para Twitch decidí darle un empujón. Lo primero fue quitarle funcionalidades ya que en un principio iba a tener equipos, movimiento, escudo, etc y decidí dejarlo en lo mínimo. No deja de ser una especia de clon de worms, un juego que era un pelotazo para jugar mucha gente. ¿Quizá tener que lidiar con ángulos y velocidad sea un lío? Las explosiones desplazan a los jugadores con la idea de que haya que recalcular los disparos.
 
 **Puntuación:** timpanos / 10
 
@@ -356,17 +357,18 @@ por **pello**
 
 por **pello**
 
-**Tecnología:** Javacript
+**Tecnología:** Phaser/Javascript
+Es un roguelike o dungeon crawler pero las mazmorras las genera el resultado de una máquina tragaperras. El chat simplemente decide la acción en cada mazmorra. Es muy simple, me daba igual que no le gustara a nadie, hacía tiempo que me apetecía hacer un slot de mazmorras y me quedé a gusto. Si el personaje muere se genera otro. Necesita nivelar enemigos, el sistema de combate, añadir niveles, etc.
 
 **Puntuación:** NullPointer / 10
 
 ---
-
 ## Chat Gasol
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+Juego on la misma mecánica de tiro con ángulo. Como suele ser habitual, idea chorra y simple y resulta que gusta. Hay rumores de que si se juega en el canal de **niv3k_el_pato** puede aparecer un easter egg 🥚 (el primero que hago).
 
 **Puntuación:** Triple / 10
 
@@ -376,7 +378,8 @@ por **pello**
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+Más que un "juego", no es más que una aplicación para pintar en grupo, de ahí el nombre. Está pensado para dejarlo puesto y que desde el chat se vaya pintando algo. Quizá tenga algo de peligro el libre albedrío xD.
 
 **Puntuación:** #FF0000 / 10
 
