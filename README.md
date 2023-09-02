@@ -207,6 +207,18 @@ por **NiadeCode**
 
 **Tecnología:** Kotlin
 
+Numérica Battle Royale surgió con la idea de limpiar el chat y potenciar aún más la competitividad del Numérica original.
+
+Esta versión es como Numerica original añadiendo una escena donde la suma de todos los números introducidos por los jugadores se representan en forma de robots y luchan contra los robots del resto de usuarios hasta que solo quedan robots de un solo jugador. En ese momento, si los timeouts están activos, hará un timeout del número de soldados por el multiplicador a todos los jugadores que no han ganado.
+
+La idea surgió en el chat de Rothio, alguien en una lluvia de ideas unos días antes de pensar en organizar la jam, dijo “Battle royale”. Al instante se me vino a la cabeza la idea de un montón de soldaditos dándose de palos.
+
+Sólo conozco Kotlin como lenguaje y no me daba tiempo para aprender Unity o Godot. Así que tiré por Kotlin como base para mi Numerica. Antes de la Jam ya hice una base funcional de numerica, solo me faltaba plasmar la idea de un montón de soldaditos dándose de leches.
+
+Como primer juego, ha sido toda una experiencia donde me he peleado con distancias, con mapas, con matemáticas y sobre todo, con un montón de fps perdidos por estar calculando distancias de forma infinita.
+
+En un principio no hacía directo, pero ya terminada la jam y sin prisas estoy empezando a abrir directo desarrollando mejoras que me han sugerido y jugando cosillas https://www.twitch.tv/niadecode
+
 **Puntuación:** Masacre / 10
 
 ---
