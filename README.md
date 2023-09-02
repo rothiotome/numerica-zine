@@ -277,13 +277,31 @@ por **AforDigital**
 
 ---
 
-## Encriptica
+## Encryptica
 
-por **Endorth_4**
+por **Endorth**
 
 **Tecnología:** Godot
 
 **Puntuación:** null / 10
+
+Corría el año 1990, yo aún no había nacido.
+
+En un canal de televisión con más anuncios que horas tiene un día querían hacer un nuevo programa. Como aquí no somos muy originales copiamos uno estadounidense llamado 'Wheel of Fortune'.
+
+Me contrataron como diseñador de ruletas, pero la vida da muchas vueltas y a por el bote no puede ir todo el mundo, así que después de inventar los palos para girarla me echaron, después contrataron al que canta.
+
+Tenía mucha rabia en mi interior y me prometí nunca usar cosas que giraran. Puedes imaginarte como es mi vida ahora, intento ir saltando para que la rotación terrestre no me mueva, solo uso relojes digitales y me limpio con toallitas húmedas.
+
+(Edad de cristo) años después, me paseaba por el internet y vi que hacían una Jam de Numerica y quise participar.
+
+Les robaría a los ladrones su idea, pero sin ruletas.
+
+Usando comandos cómo !l o !s la gente del chat podía intentar resolver paneles con frases, daría puntuación por cada letra acertada y más puntos a la persona que lo resolviera.
+Primero se me vino a la cabeza hacer algo de decodificar mensajes, pero los Cryptex rotan así que no puedo ni verlos. El nombre me gustó y lo dejé, no le doy demasiadas vueltas a las cosas.
+
+El juego fue un gran éxito y me han pedido que haga más sencillo lo de añadir frases personalizadas.
+Igual algún día lo hago, pero retomar cosas tampoco es lo mío...
 
 ---
 
