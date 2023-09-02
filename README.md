@@ -190,8 +190,11 @@ por **Endorth**
 **Puntuación:** !join / r
 
 La Real Federación de Carreras de Caracoles me contactó para hacerles un poco de promoción, ya que han detectado que el crecimiento de número de federados durante el último siglo va demasiado lento, me decía Roberto, presidente de la RFCC.
+
 "Queremos algo que sorprenda, algo que devuelva la ilusión a los pequeños de casa para sacar a esas criaturas de sus hábitos naturales, pintarles el carbonato de calcio y meterlos en parqué."
+
 Así que me embadurne de baba de caracol, que dicen que va bien para algo y me puse manos a la obra. Quería algo sencillo, que se entendiera a la primera, me costó al principio, ya que las directrices no eran muy claras, carreras y caracoles eran dos conceptos demasiado dispares, no me cuadraba mucho.
+
 Pensé en tipos de animales, pensé en tipos de competición, pero el último canódromo de Barcelona lo cerraron el 21 de febrero de 2003. Estuve días investigando y pensando en qué podía hacer, hasta que una noche con un sol abrasador se me ocurrió:  carreras... ¡CARRERAS!, de.. De... calamares, ca..., caviar, cab.. ,caballos..., ¡NO! ¡CARACOLES!
 ¡CARRERAS DE CARACOLES!
 
