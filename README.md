@@ -68,6 +68,18 @@ por **Neus**
 
 **Puntuación:** 150 / 10
 
+Nunca antes había participado en una jam y vi esta ocasión como una oportunidad para empezar y como buena fan de Pokémon decidí hacer un juego el objetivo del cual es colaborar para completar la Pokédex.
+
+En un principio iba a haber un solo nivel, en el cual los usuarios debían saberse el orden en el que están registrados los Pokémon en la Pokédex, pero pensé que quizás sería demasiado complicado para un target que no está muy metido en el mundillo, así que decidí incluir dos niveles más:
+- Nivel fácil: En este nivel el nombre del siguiente Pokémon sale en pantalla, de manera que el chat sepa cual es el siguiente sin complicaciones.
+- Nivel medio: En este nivel se muestran tres opciones, una de estas es el Pokemon correcto, las demás són Pokémon aleatorios entre los 1010 que hay.
+- Nivel difícil: Este es el nivel que estaba pensado inicialmente, en el cual no se muestra el nombre del siguiente Pokémon.
+
+Pensé que algunas personas pueden encontrar más divertido que se reinicie la Pokédex cuando alguien se equivoque y otras pueden pensar que es mejor que, aunque alguien falle, se siga desde el último Pokémon acertado, así que puse la opción de elegir el modo que el streamer prefiera.
+
+Además había pensado en poder elegir las generaciones de Pokémon con las que jugar y hacer un registro de las personas que habían participado para que salieran al completar la Pokédex. Pero por falta de tiempo se descartaron.
+
+
 ---
 
 ## Quijótica
