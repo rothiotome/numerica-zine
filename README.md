@@ -10,13 +10,23 @@ por **RothioTome**
 
 ---
 
-## Inifinitica
+##  ♾ Inifinitica ♾
 
 por **Endorth**
 
 **Tecnología:** Godot
 
 **Puntuación:** -10 / infinito
+
+¿Sabías que hay infinitos más grandes que otros? Si sumas 2 a un infinito, el resultado es un infinito mayor; Si a su vez este infinito lo multiplicas por 2, ¡obtienes un infinito el doble de grande! Pues imagínate multiplicar un infinito por... ¡OTRO INFINITO!
+
+Daría infinito, sí... un infinito muy grande, pero infinito.
+
+Pues en infinitica nos da igual de qué infinito partas, así que la explicación de antes no nos importa, es solo información, en principio.
+
+Así que vamos a intentar restar de 1 en 1 desde Infinito hasta 0, las reglas son sencillas, quien llegue a 0 gana y como en Numerica, si alguien repite número o no escribe el contiguo, se reinicia y volvemos a empezar desde -1. En cada sesión se irán acumulando las unidades restadas correctamente. Así que entre infinitas personas poniendo bien su número, tendríamos que llegar a 0. El problema es que no sabemos con qué infinito partimos. 
+
+💜 ♾ Suerte ♾ 💜
 
 ---
 
