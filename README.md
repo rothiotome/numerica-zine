@@ -260,7 +260,18 @@ por **RoyNewo**
 
 por **PepeCoral**
 
-**Tecnología:** Unitiy
+**Tecnología:** Unity
+
+En la ajetreada vida de un pequeño desarrollador aparece un rayo de luz, una oportunidad para dejar completamente de lado todas sus responsabilidades y hacer algo distinto durante un par de dias, asi nació Balancica, como una excusa para no trabajar en lo que se debia si no en lo que se queria.
+
+En Balancica el objetivo de tu chat es equilibrar una balanza, sobre ella hay una pelota que rueda segun hacia donde caiga la balanza. La manera de equilibrar la balanza es escribiendo "R" y "L", todas las que aparezcan en el chat seran contadas. Ademas aleatoriamente apareceran muchas letras que la desequilibraran haciendo que el chat tenga que ponerse deacuerdo.
+
+El desarrollo de Balancica fue muy rápido apenas en 2 dias todo estaba marchando.
+
+Esta jam apareció en el momento mas oportuno en el que no podia mas con el desarrollo de mi proyecto actual, esta Jam fue un descanso para mi tras muchos meses concentrado en un mismo juego. Estaba al borde del colapso y parar a hacer otra cosa completamente distinta fue mi oasis en medio del desierto. Tras esto he podido volver a mi juego con mucha mas energia y ganas.
+
+Mi conclusion: Los desarrollos pequeñitos son geniales, son muy satisfactorios ya que puedes ver un proyecto terminado en dias y te permiten hacer un parentesis a cualquier cosa en la que estes metido, ademas puedes experimentar mucho mas ya que el compromiso es minimo.
+
 
 **Puntuación:** LLLLLL / RRRRR
 
