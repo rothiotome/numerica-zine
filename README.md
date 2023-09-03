@@ -110,6 +110,16 @@ por **Nekerafa**
 
 **Puntuación:** caterpie / 10
 
+Soy Neke y vengo a presentar mi libro: Personiña NB gallegue que en sus ratitos libres empiezo proyectos y nunca termino. Así que últimamente solo me centro en Game Jams.
+
+Pues el otro día, estando de vacaciones, estaba navegando por Twitter (si, voy a seguir diciendo Twitter), y vi que la majísima de Rothio estaba anunciando la Numerica Jam. Yo, que no sabía el contexto, pensé: "Oye, pues voy a reservar unas horitas para aprovechar para participar, que llevo tiempo sin hacer nada" (toy muy ocupade personalmente y no sale mucho tiempo). El problema, que soy muy fanboy de usar LÖVE, pero teniendo poquitas horas en mi apretada agenda de vacaciones no me daba la cabeza programar algo complicadiño, así que estuve dos días para al final decidirme tirar por Godot.
+
+Me gustaría haberlo desarrollado en directo, pero es que estando de vacaciones no me daba tiempo a mentalizarme a exponerme en Twitch, y después de una cena me puse a pensar en los diferentes multiversos de Numerica hasta que dije: "¡Tate! ¿Y si meto cosas de furries (aka Pokémon)?", y dicho y hecho.
+
+El jueguito es simple: tu chat puede enviar el nombre de la silueta del Pokémon que se muestra para completar la Pokédex Nacional. Si alguien se equivoca, se vuelve al primer Pokémon, y una persona solo puede escribir un Pokémon por vez. Cómo cosita que metí: los Pokémon ya descubiertos salen sin silueta (como forma de simplificar las cosas).
+
+¡Qué disfruteis! :3.
+
 ---
 
 ## Comparadores Caóticos
