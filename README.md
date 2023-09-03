@@ -116,7 +116,7 @@ Pues el otro día, estando de vacaciones, estaba navegando por Twitter (si, voy 
 
 Me gustaría haberlo desarrollado en directo, pero es que estando de vacaciones no me daba tiempo a mentalizarme a exponerme en Twitch, y después de una cena me puse a pensar en los diferentes multiversos de Numerica hasta que dije: "¡Tate! ¿Y si meto cosas de furries (aka Pokémon)?", y dicho y hecho.
 
-El jueguito es simple: tu chat puede enviar el nombre de la silueta del Pokémon que se muestra para completar la Pokédex Nacional. Si alguien se equivoca, se vuelve al primer Pokémon, y si alguien escribe dos veces Pokémon, no cuenta. Cómo cosita que metí: los Pokemon ya descubiertos salen sin silueta (como forma de simplificar las cosas).
+El jueguito es simple: tu chat puede enviar el nombre de la silueta del Pokémon que se muestra para completar la Pokédex Nacional. Si alguien se equivoca, se vuelve al primer Pokémon, y una persona solo puede escribir un Pokémon por vez. Cómo cosita que metí: los Pokémon ya descubiertos salen sin silueta (como forma de simplificar las cosas).
 
 ¡Qué disfruteis! :3.
 
