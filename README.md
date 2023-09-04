@@ -561,9 +561,13 @@ por **pello**
 
 ## HangedMan Numerica
 
-por **IkuroTime**
+por **iKuroTime**
 
-**Tecnología:** Godot
+**Tecnología:** Javascript
+Hangued Man numérica edition es el clásico juego del ahorcado, reinventado para traer una caótica experiencia multijugador al más puro estilo numérica.
+Colabora o compite con el resto de jugadores para intentar adivinar la palabra seleccionada, ¡pero cuidado! Todos los jugadores comparten vidas y cuando lleguen a 0 habrá que comenzar de nuevo.
+
+No es el juego más elaborado. No es el juego más justo. Pero es el juego que te tendrá un buen rato diciendo "¿por qué me quitan una vida por la letra x?, si nunca sale".
 
 **Puntuación:** X / 10
 
