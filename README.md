@@ -24,7 +24,7 @@ Daría infinito, sí... un infinito muy grande, pero infinito.
 
 Pues en infinitica nos da igual de qué infinito partas, así que la explicación de antes no nos importa, es solo información, en principio.
 
-Así que vamos a intentar restar de 1 en 1 desde Infinito hasta 0, las reglas son sencillas, quien llegue a 0 gana y como en Numerica, si alguien repite número o no escribe el contiguo, se reinicia y volvemos a empezar desde -1. En cada sesión se irán acumulando las unidades restadas correctamente. Así que entre infinitas personas poniendo bien su número, tendríamos que llegar a 0. El problema es que no sabemos con qué infinito partimos. 
+Así que vamos a intentar restar de 1 en 1 desde Infinito hasta 0, las reglas son sencillas, quien llegue a 0 gana y como en Numerica, si alguien repite número o no escribe el contiguo, se reinicia y volvemos a empezar desde -1. En cada sesión se irán acumulando las unidades restadas correctamente. Así que entre infinitas personas poniendo bien su número, tendríamos que llegar a 0. El problema es que no sabemos con qué infinito partimos.
 
 💜 ♾ Suerte ♾ 💜
 
@@ -305,8 +305,8 @@ por **Psuzume e Ildesir**
 
 **Tecnología:** Unity
 
-NumeriCapy se pensó como una versión entrañable del Numerica original. Se buscaba crear algo con el claro objetivo de que el chat de Twitch colaborase entre sí para alcanzar diferentes logros, quitando el componente competitivo y de premio o castigo individual. 
-En NumeriCapy, el chat del streamer colaborará para que un tierno capybara (carpincho) suba una torre. Cada cierto número de niveles se irán desbloqueando sombreros con los que vestir al roedor. Pero ¡cuidado!, cada vez que chat falle, el animalito caerá de la torre, y perderá tantos puntos de energía como número se haya alcanzado; si la energía se agota por completo, 5 personas deberan animarlo para que vuelva a ponerse en marcha. 
+NumeriCapy se pensó como una versión entrañable del Numerica original. Se buscaba crear algo con el claro objetivo de que el chat de Twitch colaborase entre sí para alcanzar diferentes logros, quitando el componente competitivo y de premio o castigo individual.
+En NumeriCapy, el chat del streamer colaborará para que un tierno capybara (carpincho) suba una torre. Cada cierto número de niveles se irán desbloqueando sombreros con los que vestir al roedor. Pero ¡cuidado!, cada vez que chat falle, el animalito caerá de la torre, y perderá tantos puntos de energía como número se haya alcanzado; si la energía se agota por completo, 5 personas deberan animarlo para que vuelva a ponerse en marcha.
 Esta versión se basa en el funcionamiento del Numerica original, sin cambios. Añade como funciones nuevas, la barra de vida y el desbloqueo de esos cosméticos.
 Respecto al arte, los creadores quisieron hacer un homenaje a “Los animales bobos suben la torre” también de Rothio. Buscaron, además, una estética de cuento infantil donde se ponen pegatinas para ir contando una historia. Algunos de los sombreritos hacen referencia a otros streamers y amigos.
 
@@ -452,7 +452,8 @@ WarChat era una idea que ya tenía antes de esta Jam pero la tenía aparcada. Al
 por **pello**
 
 **Tecnología:** Phaser/Javascript
-Es un roguelike o dungeon crawler pero las mazmorras las genera el resultado de una máquina tragaperras. El chat simplemente decide la acción en cada mazmorra. Es muy simple, me daba igual que no le gustara a nadie, hacía tiempo que me apetecía hacer un slot de mazmorras y me quedé a gusto. Si el personaje muere se genera otro. Necesita nivelar enemigos, el sistema de combate, añadir niveles, etc.
+Es un roguelike o dungeon crawler pero las mazmorras las genera el resultado de una máquina tragaperras. Aunque parezcan generos contrapuestos y que no tienen relación, lo cierto es que tienen mucho en común: en ambos tipos de juegos se busca dopamina a base encontrar tesoros. Cada vez que se entra en una mazmorra es como jugar una partida de slots.
+El chat simplemente decide la acción en cada mazmorra. Es muy simple, me daba igual que no le gustara a nadie, hacía tiempo que me apetecía hacer un slot de mazmorras y me quedé a gusto. Si el personaje muere se genera otro. Necesita nivelar enemigos, el sistema de combate, añadir niveles, etc.
 
 **Puntuación:** NullPointer / 10
 
@@ -474,6 +475,7 @@ por **pello**
 
 **Tecnología:** Phaser/Javascript
 Más que un "juego", no es más que una aplicación para pintar en grupo, de ahí el nombre. Está pensado para dejarlo puesto y que desde el chat se vaya pintando algo. Quizá tenga algo de peligro el libre albedrío xD.
+Agradezco especialmente que Rothio no pusiera pegas al nombre. Al margen de otros significados, tiene todo el sentido xD.
 
 **Puntuación:** #FF0000 / 10
 
@@ -483,7 +485,8 @@ Más que un "juego", no es más que una aplicación para pintar en grupo, de ah�
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+Se trata de una versión de Wordle que permite cierta flexibilidad en modos de juego: desde elegir entre inglés, francés y español, al modo de proponer palabras (estricta o no). El resto se adapta al chat de Twitch. La única pega es que no se pueden coger todas las propuestas, la primera es la que entra y se bloquean el resto mientras se muestran las letras acertadas. Quizá no sea un buen juego para muchos usuarios, salvo que solo aceptes sugerencias acumuladas. En cualquier caso, siempre puedes aprender nuevas palabras, como Joyel.
 
 **Puntuación:** Joyel / 10
 
@@ -493,7 +496,9 @@ por **pello**
 
 por **pello**
 
-**Tecnología:** Javacript
+**Tecnología:** Phaser/Javascript
+Se trata de la versión de Numérica en números romanos. Debido al tamaño que pueden tomar los "números" no podía tener el mismo diseño que el Numérica. No sé si funcionaba bien: la generación de números estaba testeada (se incrementaba un número y se traducía a romano), y en Twitch lo había podido comprobar pero solo con dos usuarios. Poner los mensajes en latín me parecía lo suyo, me congratula ver que no fui el único xD.
+Nota: a partir de 3999 se debería romper.
 
 **Puntuación:** V / 10
 
@@ -503,7 +508,11 @@ por **pello**
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+Es un numérica pero en lugar de aplicar un +1 se puede aplicar cualquier operación (suma, resta, multiplicación y división).
+Zenbaki en euskera significa número. Lo curioso es que hay palabras del euskera que parecen japonesas con tanta K y tanta Z (Los Scrabbles de ambos idiomas deben tener valores similares xD).
+En fin, como sonaba japonés y a todo el mundo le gusta cualquier cosa que venga de allí, intenté alejarme de los pixeles y hacer un interfaz muy... "zen", con nubes de estilo japonés y el circulo representando el sol naciente.
+En cuanto a los números, en principio no deberían pasar de 99 y no deberían estar mucho tiempo bajo 0, más que nada para que a base de multiplicaciones el número no se vaya de madre. Las divisiones solo salen si el resultado es entero, y las puntuaciones que se otorgan varían en función de la operación (suma, multiplicación, etc.).
 
 **Puntuación:** VecinoYtgard / 10
 
@@ -513,7 +522,9 @@ por **pello**
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+Se trata de proponer una palabra y encadenar otra que comience por su final. La palabra encadenada se convierte en la nueva propuesta y así hasta el infinito. Se puntuan las palabras por los puntos de Scrabble, algo que he aplicado en varios juegos. También se comprueba la validez de las palabras usando diccionarios. En el caso de que nadie vea forma de proponer una palabra para encadenar, se puede proponer !wordinary, lo que provoca un reset y genera una nueva palabra.
+El más rápido y quién proponga mejores palabras es el que aparecerá como líder.
 
 **Puntuación:** Noah / 10
 
@@ -523,7 +534,10 @@ por **pello**
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+Una serie de letras caminan por un sendero que lleva a nuestro castillo. Debemos formar palabras con esas letras para eliminarlas y evitar que golpeen la fortaleza. El mínimo son dos letras y se utilizan ficheros y comprobaciones que ya están en Wordinary y en Chatle, así como la valoración por dificultad de letra.
+Es una especie de "tower defense" colectivo. Quizá necesite más balance de vocales, pero también es divertido que las letras pasen de largo y haya angustia. La desesperación puede hacer que acabes proponiendo tristes palabras de dos letras. Me parecía interesante un juego que promoviera la colaboración colectiva a la vez que la competición personal.
+La existencia de palabras como ox (buey) producen enorme alivio.
 
 **Puntuación:** Foya / 10
 
@@ -533,7 +547,8 @@ por **pello**
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+No deja de ser la misma idea/mecánica que Románica, con una clase que incrementa una secuencia. Al igual que en Románica, estaba testeado y probado con pocos usuarios, pero no sé si funcionó muy bien. Por lo demás, procuré copiar exactamente el mismo interfaz que Numérica e incluso usar la misma fuente.
 
 **Puntuación:** A/z a/Z
 
@@ -543,7 +558,10 @@ por **pello**
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+Encontré una estupenda API gratuíta de preguntas. https://the-trivia-api.com/ A partir de ahí simplemente basta con crear un interfaz para mostrar las preguntas y recoger las respuestas de los usuarios. La API permite personalizar el nivel de preguntas así como elegir las categorías. También hay preguntas de nicho, aunque no lo llegué a probar. El rango de tamaños de las preguntas y respuestas era un poco problemático y quizá las preguntas eran demasiado anglosajonas. Obviamente los jugadores pueden copiar la respuesta de otros, pero la rapidez se tiene en cuenta en el ranking.
+Lo ideal sería poder elegir/configurar las preguntas.
+Tenía curiosidad por ver si una aplicación de preguntas así podía gustar. Mi sensación es que quizá tiene mucho texto y a los jugadores les cuesta responder (además del lag). Todos los problemas que tiene este juego, los soluciona Kahoot jajaja.
 
 **Puntuación:** 2Enmienda / 10
 
