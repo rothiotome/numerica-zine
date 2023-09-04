@@ -10,7 +10,7 @@ por **RothioTome**
 
 ---
 
-##  ♾ Inifinitica ♾
+## ♾ Inifinitica ♾
 
 por **Endorth**
 
@@ -24,7 +24,7 @@ Daría infinito, sí... un infinito muy grande, pero infinito.
 
 Pues en infinitica nos da igual de qué infinito partas, así que la explicación de antes no nos importa, es solo información, en principio.
 
-Así que vamos a intentar restar de 1 en 1 desde Infinito hasta 0, las reglas son sencillas, quien llegue a 0 gana y como en Numerica, si alguien repite número o no escribe el contiguo, se reinicia y volvemos a empezar desde -1. En cada sesión se irán acumulando las unidades restadas correctamente. Así que entre infinitas personas poniendo bien su número, tendríamos que llegar a 0. El problema es que no sabemos con qué infinito partimos. 
+Así que vamos a intentar restar de 1 en 1 desde Infinito hasta 0, las reglas son sencillas, quien llegue a 0 gana y como en Numerica, si alguien repite número o no escribe el contiguo, se reinicia y volvemos a empezar desde -1. En cada sesión se irán acumulando las unidades restadas correctamente. Así que entre infinitas personas poniendo bien su número, tendríamos que llegar a 0. El problema es que no sabemos con qué infinito partimos.
 
 💜 ♾ Suerte ♾ 💜
 
@@ -71,6 +71,7 @@ por **Neus**
 Nunca antes había participado en una jam y vi esta ocasión como una oportunidad para empezar y como buena fan de Pokémon decidí hacer un juego el objetivo del cual es colaborar para completar la Pokédex.
 
 En un principio iba a haber un solo nivel, en el cual los usuarios debían saberse el orden en el que están registrados los Pokémon en la Pokédex, pero pensé que quizás sería demasiado complicado para un target que no está muy metido en el mundillo, así que decidí incluir dos niveles más:
+
 - Nivel fácil: En este nivel el nombre del siguiente Pokémon sale en pantalla, de manera que el chat sepa cual es el siguiente sin complicaciones.
 - Nivel medio: En este nivel se muestran tres opciones, una de estas es el Pokemon correcto, las demás són Pokémon aleatorios entre los 1010 que hay.
 - Nivel difícil: Este es el nivel que estaba pensado inicialmente, en el cual no se muestra el nombre del siguiente Pokémon.
@@ -78,7 +79,6 @@ En un principio iba a haber un solo nivel, en el cual los usuarios debían saber
 Pensé que algunas personas pueden encontrar más divertido que se reinicie la Pokédex cuando alguien se equivoque y otras pueden pensar que es mejor que, aunque alguien falle, se siga desde el último Pokémon acertado, así que puse la opción de elegir el modo que el streamer prefiera.
 
 Además había pensado en poder elegir las generaciones de Pokémon con las que jugar y hacer un registro de las personas que habían participado para que salieran al completar la Pokédex. Pero por falta de tiempo se descartaron.
-
 
 ---
 
@@ -146,17 +146,17 @@ La idea surgió después de una jornada laboral normal de Indie Game Developer (
 
 La experiencia de Dani Carco ha sido participar en unas cuantas jams. En cambio Dramática Tomé ha estado en varios tiestos diferentes.
 
-Sobre su desarrollo que podemos decir... *Movimiento de hojas arriba, arriba, abajo, abajo, izquierda, derecha... ABAJO, ABAJO, ABAJO*. Ejem... Drámatica quiere decir que no fue complicado porque la idea fue la más sencilla posible, mi... *Movimiento de hojas* nuestra intención era participar, no nos podíamos quedar fuera, nos hacia mucha ilusión y sacamos tiempo de debajo de las piedras para conseguirlo. Nos hubiera encantado haber hecho algo mejor y pulido para estar a la altura del resto de participantes, pero aún así, estamos felices C:
+Sobre su desarrollo que podemos decir... _Movimiento de hojas arriba, arriba, abajo, abajo, izquierda, derecha... ABAJO, ABAJO, ABAJO_. Ejem... Drámatica quiere decir que no fue complicado porque la idea fue la más sencilla posible, mi... _Movimiento de hojas_ nuestra intención era participar, no nos podíamos quedar fuera, nos hacia mucha ilusión y sacamos tiempo de debajo de las piedras para conseguirlo. Nos hubiera encantado haber hecho algo mejor y pulido para estar a la altura del resto de participantes, pero aún así, estamos felices C:
 
 Posiblemente ha sido la jam más bonita que he participado. Los pedazos de juegos que han hecho el resto, es increíble la cantidad de ideas diferentes que han salido y lo bien ejecutadas, jugarlos en directo con las demás participantes, en diferentes streams, ver la cantidad de timeouts, buen ambiente y risas... En fin, que más puedo decir: Best jam / 10.
 
-Por supuesto pienso... *Movimiento de hojas* pensamos participar en la siguiente <3
+Por supuesto pienso... _Movimiento de hojas_ pensamos participar en la siguiente <3
 
 ---
 
 ## Gallinerica
 
-por **BlurSoul_, ManzDev y maxi83c**
+por **BlurSoul\_, ManzDev y maxi83c**
 
 **Tecnología:** Javascript
 
@@ -164,7 +164,7 @@ Gallinérica es el resultado teórico-práctico de haber mezclado dos sustancias
 
 El objetivo del juego está en identificar a tiempo el problema de cada pollo y gallinificarlo™ (devolverlo a su estado normal) mientras esté en la plataforma central.
 
-El desarrollo del juego se ha hecho íntegramente en directo durante 4 días, donde ManzDev ha realizado la programación del mismo, BlurSoul_ ha diseñado el arte pixel art y maxi83c_ y otros usuarios del chat han ayudado a mejorarlo e idear características. Como reto, decidimos desarrollarlo en Javascript vanilla, para comprobar si eramos capaces de terminarlo sin utilizar ninguna librería, framework o motor. Involucramos gallinas como personajes del juego porque nos pareció el animal con menos glamour que existe y porque es el más cercano a una situación de caos.
+El desarrollo del juego se ha hecho íntegramente en directo durante 4 días, donde ManzDev ha realizado la programación del mismo, BlurSoul* ha diseñado el arte pixel art y maxi83c* y otros usuarios del chat han ayudado a mejorarlo e idear características. Como reto, decidimos desarrollarlo en Javascript vanilla, para comprobar si eramos capaces de terminarlo sin utilizar ninguna librería, framework o motor. Involucramos gallinas como personajes del juego porque nos pareció el animal con menos glamour que existe y porque es el más cercano a una situación de caos.
 
 ManzDev es desarrollador web desde hace ya más de 15 años, pero es el primer juego que desarrolla y publica. Entre sus juegos preferidos se incluyen obras maestras como Undertale, las sagas To the moon o Monkey Island, Rakuen y tantos otros que unen pixel art, narrativa y emociones.
 
@@ -231,12 +231,12 @@ La Real Federación de Carreras de Caracoles me contactó para hacerles un poco 
 
 Así que me embadurne de baba de caracol, que dicen que va bien para algo y me puse manos a la obra. Quería algo sencillo, que se entendiera a la primera, me costó al principio, ya que las directrices no eran muy claras, carreras y caracoles eran dos conceptos demasiado dispares, no me cuadraba mucho.
 
-Pensé en tipos de animales, pensé en tipos de competición, pero el último canódromo de Barcelona lo cerraron el 21 de febrero de 2003. Estuve días investigando y pensando en qué podía hacer, hasta que una noche con un sol abrasador se me ocurrió:  carreras... ¡CARRERAS!, de.. De... calamares, ca..., caviar, cab.. ,caballos..., ¡NO! ¡CARACOLES!
+Pensé en tipos de animales, pensé en tipos de competición, pero el último canódromo de Barcelona lo cerraron el 21 de febrero de 2003. Estuve días investigando y pensando en qué podía hacer, hasta que una noche con un sol abrasador se me ocurrió: carreras... ¡CARRERAS!, de.. De... calamares, ca..., caviar, cab.. ,caballos..., ¡NO! ¡CARACOLES!
 ¡CARRERAS DE CARACOLES!
 
 Lo había tenido enfrente todo ese tiempo y no lo había visto, lo tenía. Llamé a Roberto y le encantó la idea, hicieron una fiesta y un desfile de caracoles con pequeñas pancartas con mi nombre, fue el día más feliz de mi vida, conocí a Alfreda.
 
-La gente podría elegir equipo! 5 equipos como los 5 continentes, un juego global, mundial, universal, extra-galáctico; y cada equipo debería contar hasta 10 sin repetir número, y si fallaban volvían a 0.  Lo tenía, había copiado a Numerica, pero eso no lo sabría nadie, porque el éxito que conseguiría ¡Estaría por encima de todas las críticas!
+La gente podría elegir equipo! 5 equipos como los 5 continentes, un juego global, mundial, universal, extra-galáctico; y cada equipo debería contar hasta 10 sin repetir número, y si fallaban volvían a 0. Lo tenía, había copiado a Numerica, pero eso no lo sabría nadie, porque el éxito que conseguiría ¡Estaría por encima de todas las críticas!
 
 ...
 
@@ -272,7 +272,6 @@ Esta jam apareció en el momento mas oportuno en el que no podia mas con el desa
 
 Mi conclusion: Los desarrollos pequeñitos son geniales, son muy satisfactorios ya que puedes ver un proyecto terminado en dias y te permiten hacer un parentesis a cualquier cosa en la que estes metido, ademas puedes experimentar mucho mas ya que el compromiso es minimo.
 
-
 **Puntuación:** LLLLLL / RRRRR
 
 ---
@@ -305,8 +304,8 @@ por **Psuzume e Ildesir**
 
 **Tecnología:** Unity
 
-NumeriCapy se pensó como una versión entrañable del Numerica original. Se buscaba crear algo con el claro objetivo de que el chat de Twitch colaborase entre sí para alcanzar diferentes logros, quitando el componente competitivo y de premio o castigo individual. 
-En NumeriCapy, el chat del streamer colaborará para que un tierno capybara (carpincho) suba una torre. Cada cierto número de niveles se irán desbloqueando sombreros con los que vestir al roedor. Pero ¡cuidado!, cada vez que chat falle, el animalito caerá de la torre, y perderá tantos puntos de energía como número se haya alcanzado; si la energía se agota por completo, 5 personas deberan animarlo para que vuelva a ponerse en marcha. 
+NumeriCapy se pensó como una versión entrañable del Numerica original. Se buscaba crear algo con el claro objetivo de que el chat de Twitch colaborase entre sí para alcanzar diferentes logros, quitando el componente competitivo y de premio o castigo individual.
+En NumeriCapy, el chat del streamer colaborará para que un tierno capybara (carpincho) suba una torre. Cada cierto número de niveles se irán desbloqueando sombreros con los que vestir al roedor. Pero ¡cuidado!, cada vez que chat falle, el animalito caerá de la torre, y perderá tantos puntos de energía como número se haya alcanzado; si la energía se agota por completo, 5 personas deberan animarlo para que vuelva a ponerse en marcha.
 Esta versión se basa en el funcionamiento del Numerica original, sin cambios. Añade como funciones nuevas, la barra de vida y el desbloqueo de esos cosméticos.
 Respecto al arte, los creadores quisieron hacer un homenaje a “Los animales bobos suben la torre” también de Rothio. Buscaron, además, una estética de cuento infantil donde se ponen pegatinas para ir contando una historia. Algunos de los sombreritos hacen referencia a otros streamers y amigos.
 
@@ -457,6 +456,7 @@ Es un roguelike o dungeon crawler pero las mazmorras las genera el resultado de 
 **Puntuación:** NullPointer / 10
 
 ---
+
 ## Chat Gasol
 
 por **pello**
@@ -561,9 +561,13 @@ por **pello**
 
 ## HangedMan Numerica
 
-por **IkuroTime**
+por **iKuroTime**
 
-**Tecnología:** Godot
+**Tecnología:** Javascript
+Hangued Man numérica edition es el clásico juego del ahorcado, reinventado para traer una caótica experiencia multijugador al más puro estilo numérica.
+Colabora o compite con el resto de jugadores para intentar adivinar la palabra seleccionada, ¡pero cuidado! Todos los jugadores comparten vidas y cuando lleguen a 0 habrá que comenzar de nuevo.
+
+No es el juego más elaborado. No es el juego más justo. Pero es el juego que te tendrá un buen rato diciendo "por que me quitan una vida por la letra x, si nunca sale".
 
 **Puntuación:** X / 10
 
