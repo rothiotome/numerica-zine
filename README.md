@@ -46,6 +46,20 @@ por **jotape**
 
 **Tecnología:** Javascript
 
+Nivelagica es una aplicación basada en diversos modos de juego, diseñada para incentivar la competencia y el trabajo colectivo en el chat de un canal de Twitch. Surgió a partir de la idea de combinar la esencia de Numérica con diferentes enfoques de juego.
+
+Todo comenzó con el modo de juego "Twitch Nick", inspirado por una conversación en el canal de ChrisVDev (!so @ChrisVDev). La idea original era utilizar la mecánica de Numérica, pero en lugar de números, basarse en los nombres de usuario de las cuentas de Twitch. Sin embargo, después de crear un MVP para la JAM, se consideró que no era una idea viable y se optó por no participar. Después de un tiempo de reflexión (30 minutos), se decidió crear varios modos de juego con temática numérica, dando origen a "Nivelagica".
+
+La aplicación ofrece cinco modos de juego diferentes:
+
+- Twitch Nick: Los participantes deben escribir el nombre de usuario de la persona anterior y seguir la cadena.
+- Números binarios: Se trata de una progresión aritmética basada en números binarios.
+- Fibonacci: Los jugadores deben escribir la sucesión espiral de Fibonacci.
+- Números primos: Se basa en una progresión aritmética con números primos.
+- Números romanos: Consiste en una progresión aritmética basada en números romanos.
+
+Nivelagica se desarrolló como una aplicación frontend utilizando React y Tailwind. Permite añadir fácilmente nuevos modos de juego. La aplicación busca crear un ambiente competitivo y colaborativo en el chat de Twitch, donde la comunidad del canal compite por obtener la puntuación más alta y ganarse el VIP.
+
 **Puntuación:** !love/10
 
 ---
