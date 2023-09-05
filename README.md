@@ -390,6 +390,17 @@ por **EseMismoBruno**
 
 **Puntuación:** Renfe / 10
 
+Rielérica es el resultado de la segunda participación en jams de EseMismoBruno. La primera fue la jam de Kenney, cuyo requisito para participar era desarrollar un juego usando sus assets gratuitos. Esa primera experiencia lo ayudó a "soltar la mano" con Godot y atreverse a probar nuevas ideas.
+
+Este juego surge de la idea de forzar a un grupo de personas a trabajar por un objetivo en común (en condiciones laborales paupérrimas). Esto de forzar a la gente a colaborar siempre es un caldo de cultivo para que surja el caos, lo que se buscaba de manera intencional. En este caso, los trabajadores deben construir un riel a través del que va a pasar un cargamento peligroso: una bomba. Tan peligroso es el cargamento que si no alcanzan a terminar, la bomba le cae al desafortunado que tenga más cerca baneándolo del chat por algunos segundos.
+
+La inspiración del juego viene de juegos de colaboración y caos como OverCooked, pero también de la veta artística de EseMismoBruno que desarrolla a través de p5.js haciendo composiciones que combinan muchos agentes y usan las relaciones entre ellos para dibujar sobre un lienzo (aunque en este juego el resultado es bastante más caótico que artístico).
+
+Parte del desarrollo se hizo en vivo por Twitch pero bastante se hizo fuera de cámaras debido a las muchas pruebas y errores para lograr una integración satisfactoria con la API.
+
+Más sobre el autor: https://esemismobruno.com
+Canal de Twitch: https://twitch.tv/esemismobruno
+
 ---
 
 ## Coffeerica
