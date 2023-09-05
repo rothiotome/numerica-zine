@@ -70,6 +70,16 @@ por **CakuDev**
 
 **Tecnología:** Unity
 
+Targetica comenzó a idearse una semana antes de la finalización de la jam, cuando vi la propuesta de Pepe Coral en Twitter, Balancica. Me gustó tanto la idea que decidí ponerme manos a la obra para idear un juego que tuviese como eje central el chat de Twitch, pero que se alejase de la idea original de Numerica. Tras pensar un buen rato, decidí inspirarme en uno de mis pasatiempos favoritos de la feria, las escopetas. Fue entonces cuando comencé a diseñar la generación de dianas y el movimiento de la mirilla, siendo ésto último lo que más problemas me causó.
+
+Tenía que ser capaz de adaptarse a un chat de Twitch independientemente del número de participantes, ya que en canales pequeños se movería muy poco y en canales grandes lo haría demasiado. También tenía que compatibilizar la jugabilidad con el delay que sufren los espectadores de una transmisión en Twitch. Tras varias pruebas, programé el diseño actual. Los viewers deben votar una dirección y, tras un periodo de tiempo, la mirilla se moverá en un promedio de las direcciones votadas.
+
+El resultado final es un juego donde el chat debe mover la mirilla mediante votaciones mientras aparecen dianas en la pantalla. Cada vez que la mirilla entra en contacto con una diana, dispara automáticamente y se obtendrán más o menos puntos en función de la cercanía al centro. Al acabar la partida, se mostrará la puntuación total y se reiniciará la partida si así se ha configurado.
+
+Para futuras actualizaciones, me gustaría mejorar el feedback al disparar a las dianas, poder marcar objetivos de puntuación y modificar el recuento de votos para representarlos gráficamente con una flecha de dirección.
+
+Aun así, Targetica es totalmente jugable y divertido para poner de fondo en un directo.
+
 **Puntuación:** 110 / 10
 
 ---
