@@ -6,6 +6,16 @@ por **RothioTome**
 
 **Tecnología:** Unity
 
+¿En qué consiste el juego de "THE BUTTON" de Elendow? La premisa es muy simple: cada vez que pulsas el botón sumas un punto. Cada vez que sumas un punto, hay un 1% más de probabilidades de que el botón resetee el contador. El objetivo: intentar conseguir la mayor puntuación posible.
+
+La primera vez que escuché sobre este juego me pareció una genialidad. Reducir la mecánica de un videojuego a su mínima expresión. Evidenciar la inutilidad de los seres humanos para calcular probabilidades acumulativas. Demostrar la eficacia de un programa de reforzamiento de razón variable en la tarea más simple y absurda que existe.
+
+¿Y en qué consiste "THE BUTTONICA" entonces? En coger lo mejor del juego de Elendow, lo mejor de numerica, y crear el juego definitivo para Twitch. Un botón rojo que puedes pulsar desde el chat con escribir un simple "click" y te expone a la posibilidad de recibir un veto temporal si el azar así lo decide. No hay recompensas, solo la posibilidad de castigo.
+
+Y aún así, todo el mundo decide pulsar compulsivamente el botón. Como mosquitos a una lámpara. Como moscas a la mierda. Como viewers delante de un buen botón rojo.
+
+El juego se desarrolló en directo usando Numerica de base y fue liberado bajo licencia GPLv3. Y se ve así de bonito porque copia totalmente el estilo del juego original.
+
 **Puntuación:** clock / 10
 
 ---
