@@ -596,9 +596,25 @@ Tenía curiosidad por ver si una aplicación de preguntas así podía gustar. Mi
 
 por **pello**
 
-**Tecnología:** Javascript
+**Tecnología:** Phaser/Javascript
+No es más que un juego en el que los jugadores que se unen pasan a formar parte de los zombies o humanos: los zombies deben capturar humanos mientras estos deben tratar de llegar al helicóptero. Lo único que deben hacer ambos bandos es desplazarse por la pantalla, con un rango máximo. La "gracia" o limitación es que no se ve nada (de ahí el nombre) salvo que se usen pistas o se invoque el comando especial !marco. No sé si el juego Marco Polo es muy conocido, pero ese era el concepto que quería aplicar. Como ventaja extra, si un humano muere, en realidad sigue jugando como zombie.
+Este juego, (como casi todos los demás), era un poco experimento.
 
 **Puntuación:** zombiechikito / 10
+
+Otras notas generales
+Me gustan las jams porque te permiten embarcarte en un proyecto y te fuerzan a terminarlo. Tengo la (mala) costumbre de participar en jams cortas como la MiniJam (finde) o la Trijam (tres horas) y suelo usar phaser con JavaScript por cabezón y porque no me gustan los entornos mastodónticos que te lo dan todo. Tenía medio hecho un juego que usaba el chat de Twitch lo cual me servía de plantilla. La jam no tenía una limitación y en realidad parecía que el tema era totalmente libre lo cual permitía proponer cualquier cosa. En lugar de poner todos los huevos en un cesto, me interesaba mostrar ideas, así que intenté hacer un juego por día en cuanto tenía algo de tiempo. No es complicado porque partes de una plantilla, en algunos casos comparten lógica (generación de palabras, comprobación de palabras válidas, etc.) y las interfaces son simples y en mi caso de un mal gusto digno de mención. Al final, he llegado a las conclusiones habituales:
+- Menos es más. Quita features, opciones, quita comandos y simplifica al máximo.
+- Aquello que te gusta a ti no gusta a nadie, y la idea que te parece peor resulta que gusta.
+- Nadie se lee las explicaciones, aunque sea una línea. Hay que integrar ayuda en el juego y hacerlo obvio.
+- Antes de presentar nada enséñaselo a alguien. A cualquiera, pero a alguien, que se siente y lo pruebe.
+- Da igual el resultado, siempre aprendes algo ya sea de errores o aciertos.
+Una de las mayores desventajas que tenía es que no podía probar los juegos (aunque fuera un poco) en un stream real, salvo con un par de usuarios. Supongo que los streamers han ido probando el juego con su público y lo han podido pulir con feedback inmediato. No es que me guste el fondo verde en los juegos, todos están pensados para aplicar un filtro de transparencia y jugarlos a pantalla completa integrados en el stream, especialmente WarChat, Zombie Night y Chat Gasol.
+En fin, lo normal hubiera sido hacer el juego en un día y dedicar 7 a pulir y embellecer como dicta la regla 4:44, pero prefería proponer cosas variadas. Eso puede ayudar a evitarte chascos como cuando trabajas mucho en algo y pasa sin pena ni gloria. itch.io está plagado de autenticas joyas que no tienen ni un triste comentario.
+No soy más que un dominguero de los juegos y me dedico a otras cosas menos lúdicas. No tengo tiempo, tengo que trabajar, hacer desayunos, comida, meriendas, cenas, tender la ropa y recogerlo todo, lo siento si no puedo pulir las cosas, es lo que tiene ser full stack etxekoandre.
+
+Pero ocasiones trato de encontrar el grial cual Perceval andrajoso (un Tetris, un Wordle, un Numérica), aunque parece que todo está inventado... ¿o tal vez no?
+¡Gracias Rothio! **Puntuación Rothio:** Number.POSITIVE_INFINITY
 
 ---
 
