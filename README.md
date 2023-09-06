@@ -356,6 +356,14 @@ por **AforDigital**
 
 **Puntuación:** NPM / 10
 
+Hubo una vez un universo paralelo a este mundo al que conocemos como mundo, habitado por hamsters.
+
+Un universo mucho mejor al que ningún humano nunca podría llegar a imaginarse, porque imagínate tú un mundo donde todo lo que ves son pequeñas bolas peludas y tiernas, pues justo así.
+
+Hamsterica es el éxito del 2023, un juego esperado por toda la comunidad de videojuegos. Un juego donde tendrá que organizarse todo el chat de twitch, con una única misión: apilar hamsters y llegar al cielo.
+
+¿Te atreves? Ten cuidado, engancha, si tienes familia no te recomiendo darle al play.
+
 ---
 
 ## Encryptica
