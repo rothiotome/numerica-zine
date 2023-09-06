@@ -20,7 +20,7 @@ El juego se desarrolló en directo usando Numerica de base y fue liberado bajo l
 
 ---
 
-## ♾ Inifinitica ♾
+##  ♾ Inifinitica ♾
 
 por **Endorth**
 
@@ -105,7 +105,6 @@ por **Neus**
 Nunca antes había participado en una jam y vi esta ocasión como una oportunidad para empezar y como buena fan de Pokémon decidí hacer un juego el objetivo del cual es colaborar para completar la Pokédex.
 
 En un principio iba a haber un solo nivel, en el cual los usuarios debían saberse el orden en el que están registrados los Pokémon en la Pokédex, pero pensé que quizás sería demasiado complicado para un target que no está muy metido en el mundillo, así que decidí incluir dos niveles más:
-
 - Nivel fácil: En este nivel el nombre del siguiente Pokémon sale en pantalla, de manera que el chat sepa cual es el siguiente sin complicaciones.
 - Nivel medio: En este nivel se muestran tres opciones, una de estas es el Pokemon correcto, las demás són Pokémon aleatorios entre los 1010 que hay.
 - Nivel difícil: Este es el nivel que estaba pensado inicialmente, en el cual no se muestra el nombre del siguiente Pokémon.
@@ -113,6 +112,7 @@ En un principio iba a haber un solo nivel, en el cual los usuarios debían saber
 Pensé que algunas personas pueden encontrar más divertido que se reinicie la Pokédex cuando alguien se equivoque y otras pueden pensar que es mejor que, aunque alguien falle, se siga desde el último Pokémon acertado, así que puse la opción de elegir el modo que el streamer prefiera.
 
 Además había pensado en poder elegir las generaciones de Pokémon con las que jugar y hacer un registro de las personas que habían participado para que salieran al completar la Pokédex. Pero por falta de tiempo se descartaron.
+
 
 ---
 
@@ -180,17 +180,17 @@ La idea surgió después de una jornada laboral normal de Indie Game Developer (
 
 La experiencia de Dani Carco ha sido participar en unas cuantas jams. En cambio Dramática Tomé ha estado en varios tiestos diferentes.
 
-Sobre su desarrollo que podemos decir... _Movimiento de hojas arriba, arriba, abajo, abajo, izquierda, derecha... ABAJO, ABAJO, ABAJO_. Ejem... Drámatica quiere decir que no fue complicado porque la idea fue la más sencilla posible, mi... _Movimiento de hojas_ nuestra intención era participar, no nos podíamos quedar fuera, nos hacia mucha ilusión y sacamos tiempo de debajo de las piedras para conseguirlo. Nos hubiera encantado haber hecho algo mejor y pulido para estar a la altura del resto de participantes, pero aún así, estamos felices C:
+Sobre su desarrollo que podemos decir... *Movimiento de hojas arriba, arriba, abajo, abajo, izquierda, derecha... ABAJO, ABAJO, ABAJO*. Ejem... Drámatica quiere decir que no fue complicado porque la idea fue la más sencilla posible, mi... *Movimiento de hojas* nuestra intención era participar, no nos podíamos quedar fuera, nos hacia mucha ilusión y sacamos tiempo de debajo de las piedras para conseguirlo. Nos hubiera encantado haber hecho algo mejor y pulido para estar a la altura del resto de participantes, pero aún así, estamos felices C:
 
 Posiblemente ha sido la jam más bonita que he participado. Los pedazos de juegos que han hecho el resto, es increíble la cantidad de ideas diferentes que han salido y lo bien ejecutadas, jugarlos en directo con las demás participantes, en diferentes streams, ver la cantidad de timeouts, buen ambiente y risas... En fin, que más puedo decir: Best jam / 10.
 
-Por supuesto pienso... _Movimiento de hojas_ pensamos participar en la siguiente <3
+Por supuesto pienso... *Movimiento de hojas* pensamos participar en la siguiente <3
 
 ---
 
 ## Gallinerica
 
-por **BlurSoul\_, ManzDev y maxi83c**
+por **BlurSoul_, ManzDev y maxi83c**
 
 **Tecnología:** Javascript
 
@@ -198,7 +198,7 @@ Gallinérica es el resultado teórico-práctico de haber mezclado dos sustancias
 
 El objetivo del juego está en identificar a tiempo el problema de cada pollo y gallinificarlo™ (devolverlo a su estado normal) mientras esté en la plataforma central.
 
-El desarrollo del juego se ha hecho íntegramente en directo durante 4 días, donde ManzDev ha realizado la programación del mismo, BlurSoul* ha diseñado el arte pixel art y maxi83c* y otros usuarios del chat han ayudado a mejorarlo e idear características. Como reto, decidimos desarrollarlo en Javascript vanilla, para comprobar si eramos capaces de terminarlo sin utilizar ninguna librería, framework o motor. Involucramos gallinas como personajes del juego porque nos pareció el animal con menos glamour que existe y porque es el más cercano a una situación de caos.
+El desarrollo del juego se ha hecho íntegramente en directo durante 4 días, donde ManzDev ha realizado la programación del mismo, BlurSoul_ ha diseñado el arte pixel art y maxi83c_ y otros usuarios del chat han ayudado a mejorarlo e idear características. Como reto, decidimos desarrollarlo en Javascript vanilla, para comprobar si eramos capaces de terminarlo sin utilizar ninguna librería, framework o motor. Involucramos gallinas como personajes del juego porque nos pareció el animal con menos glamour que existe y porque es el más cercano a una situación de caos.
 
 ManzDev es desarrollador web desde hace ya más de 15 años, pero es el primer juego que desarrolla y publica. Entre sus juegos preferidos se incluyen obras maestras como Undertale, las sagas To the moon o Monkey Island, Rakuen y tantos otros que unen pixel art, narrativa y emociones.
 
@@ -265,12 +265,12 @@ La Real Federación de Carreras de Caracoles me contactó para hacerles un poco 
 
 Así que me embadurne de baba de caracol, que dicen que va bien para algo y me puse manos a la obra. Quería algo sencillo, que se entendiera a la primera, me costó al principio, ya que las directrices no eran muy claras, carreras y caracoles eran dos conceptos demasiado dispares, no me cuadraba mucho.
 
-Pensé en tipos de animales, pensé en tipos de competición, pero el último canódromo de Barcelona lo cerraron el 21 de febrero de 2003. Estuve días investigando y pensando en qué podía hacer, hasta que una noche con un sol abrasador se me ocurrió: carreras... ¡CARRERAS!, de.. De... calamares, ca..., caviar, cab.. ,caballos..., ¡NO! ¡CARACOLES!
+Pensé en tipos de animales, pensé en tipos de competición, pero el último canódromo de Barcelona lo cerraron el 21 de febrero de 2003. Estuve días investigando y pensando en qué podía hacer, hasta que una noche con un sol abrasador se me ocurrió:  carreras... ¡CARRERAS!, de.. De... calamares, ca..., caviar, cab.. ,caballos..., ¡NO! ¡CARACOLES!
 ¡CARRERAS DE CARACOLES!
 
 Lo había tenido enfrente todo ese tiempo y no lo había visto, lo tenía. Llamé a Roberto y le encantó la idea, hicieron una fiesta y un desfile de caracoles con pequeñas pancartas con mi nombre, fue el día más feliz de mi vida, conocí a Alfreda.
 
-La gente podría elegir equipo! 5 equipos como los 5 continentes, un juego global, mundial, universal, extra-galáctico; y cada equipo debería contar hasta 10 sin repetir número, y si fallaban volvían a 0. Lo tenía, había copiado a Numerica, pero eso no lo sabría nadie, porque el éxito que conseguiría ¡Estaría por encima de todas las críticas!
+La gente podría elegir equipo! 5 equipos como los 5 continentes, un juego global, mundial, universal, extra-galáctico; y cada equipo debería contar hasta 10 sin repetir número, y si fallaban volvían a 0.  Lo tenía, había copiado a Numerica, pero eso no lo sabría nadie, porque el éxito que conseguiría ¡Estaría por encima de todas las críticas!
 
 ...
 
@@ -305,6 +305,7 @@ El desarrollo de Balancica fue muy rápido apenas en 2 dias todo estaba marchand
 Esta jam apareció en el momento mas oportuno en el que no podia mas con el desarrollo de mi proyecto actual, esta Jam fue un descanso para mi tras muchos meses concentrado en un mismo juego. Estaba al borde del colapso y parar a hacer otra cosa completamente distinta fue mi oasis en medio del desierto. Tras esto he podido volver a mi juego con mucha mas energia y ganas.
 
 Mi conclusion: Los desarrollos pequeñitos son geniales, son muy satisfactorios ya que puedes ver un proyecto terminado en dias y te permiten hacer un parentesis a cualquier cosa en la que estes metido, ademas puedes experimentar mucho mas ya que el compromiso es minimo.
+
 
 **Puntuación:** LLLLLL / RRRRR
 
@@ -354,14 +355,6 @@ por **AforDigital**
 **Tecnología:** Javascript
 
 **Puntuación:** NPM / 10
-
-Hubo una vez un universo paralelo a este mundo al que conocemos como mundo, habitado por hamsters.
-
-Un universo mucho mejor al que ningún humano nunca podría llegar a imaginarse, porque imagínate tú un mundo donde todo lo que ves son pequeñas bolas peludas y tiernas, pues justo así.
-
-Hamsterica es el éxito del 2023, un juego esperado por toda la comunidad de videojuegos. Un juego donde tendrá que organizarse todo el chat de twitch, con una única misión: apilar hamsters y llegar al cielo.
-
-¿Te atreves? Ten cuidado, engancha, si tienes familia no te recomiendo darle al play.
 
 ---
 
@@ -510,7 +503,6 @@ El chat simplemente decide la acción en cada mazmorra. Es muy simple, me daba i
 **Puntuación:** NullPointer / 10
 
 ---
-
 ## Chat Gasol
 
 por **pello**
@@ -632,15 +624,14 @@ Este juego, (como casi todos los demás), era un poco experimento.
 
 Otras notas generales
 Me gustan las jams porque te permiten embarcarte en un proyecto y te fuerzan a terminarlo. Tengo la (mala) costumbre de participar en jams cortas como la MiniJam (finde) o la Trijam (tres horas) y suelo usar phaser con JavaScript por cabezón y porque no me gustan los entornos mastodónticos que te lo dan todo. Tenía medio hecho un juego que usaba el chat de Twitch lo cual me servía de plantilla. La jam no tenía una limitación y en realidad parecía que el tema era totalmente libre lo cual permitía proponer cualquier cosa. En lugar de poner todos los huevos en un cesto, me interesaba mostrar ideas, así que intenté hacer un juego por día en cuanto tenía algo de tiempo. No es complicado porque partes de una plantilla, en algunos casos comparten lógica (generación de palabras, comprobación de palabras válidas, etc.) y las interfaces son simples y en mi caso de un mal gusto digno de mención. Al final, he llegado a las conclusiones habituales:
-
 - Menos es más. Quita features, opciones, quita comandos y simplifica al máximo.
 - Aquello que te gusta a ti no gusta a nadie, y la idea que te parece peor resulta que gusta.
 - Nadie se lee las explicaciones, aunque sea una línea. Hay que integrar ayuda en el juego y hacerlo obvio.
 - Antes de presentar nada enséñaselo a alguien. A cualquiera, pero a alguien, que se siente y lo pruebe.
 - Da igual el resultado, siempre aprendes algo ya sea de errores o aciertos.
-  Una de las mayores desventajas que tenía es que no podía probar los juegos (aunque fuera un poco) en un stream real, salvo con un par de usuarios. Supongo que los streamers han ido probando el juego con su público y lo han podido pulir con feedback inmediato. No es que me guste el fondo verde en los juegos, todos están pensados para aplicar un filtro de transparencia y jugarlos a pantalla completa integrados en el stream, especialmente WarChat, Zombie Night y Chat Gasol.
-  En fin, lo normal hubiera sido hacer el juego en un día y dedicar 7 a pulir y embellecer como dicta la regla 4:44, pero prefería proponer cosas variadas. Eso puede ayudar a evitarte chascos como cuando trabajas mucho en algo y pasa sin pena ni gloria. itch.io está plagado de autenticas joyas que no tienen ni un triste comentario.
-  No soy más que un dominguero de los juegos y me dedico a otras cosas menos lúdicas. No tengo tiempo, tengo que trabajar, hacer desayunos, comida, meriendas, cenas, tender la ropa y recogerlo todo, lo siento si no puedo pulir las cosas, es lo que tiene ser full stack etxekoandre.
+Una de las mayores desventajas que tenía es que no podía probar los juegos (aunque fuera un poco) en un stream real, salvo con un par de usuarios. Supongo que los streamers han ido probando el juego con su público y lo han podido pulir con feedback inmediato. No es que me guste el fondo verde en los juegos, todos están pensados para aplicar un filtro de transparencia y jugarlos a pantalla completa integrados en el stream, especialmente WarChat, Zombie Night y Chat Gasol.
+En fin, lo normal hubiera sido hacer el juego en un día y dedicar 7 a pulir y embellecer como dicta la regla 4:44, pero prefería proponer cosas variadas. Eso puede ayudar a evitarte chascos como cuando trabajas mucho en algo y pasa sin pena ni gloria. itch.io está plagado de autenticas joyas que no tienen ni un triste comentario.
+No soy más que un dominguero de los juegos y me dedico a otras cosas menos lúdicas. No tengo tiempo, tengo que trabajar, hacer desayunos, comida, meriendas, cenas, tender la ropa y recogerlo todo, lo siento si no puedo pulir las cosas, es lo que tiene ser full stack etxekoandre.
 
 Pero ocasiones trato de encontrar el grial cual Perceval andrajoso (un Tetris, un Wordle, un Numérica), aunque parece que todo está inventado... ¿o tal vez no?
 ¡Gracias Rothio! **Puntuación Rothio:** Number.POSITIVE_INFINITY
