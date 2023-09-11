@@ -671,6 +671,12 @@ por **Montxaldre**
 
 **Tecnología:** Unity
 
+Viéndolo con un poco de perspectiva, la verdad es que había muchos motivos para participar en esta Jam con Romanica. Podría haberlo hecho porque era una gran oportunidad para hacer mi primer juego y embarcarme en una nueva aventura creando jueguitos. O porque la jam la organiza Rothio y es un honor y un orgullo poder presentar algo en un proyecto que ha creado ella. Quizá podría haberlo hecho para sentir la emoción de que amigos y conocidos lo jueguen en directo y poder estar allí para escuchar su apoyo y sus felicitaciones. También podría haberlo hecho por lo divertido que es coger una idea ya existente y modificarla, darle un toque personal, tomar decisiones de diseño y demás.
+
+Sin embargo, el verdadero motivo por el que he creado Romanica es para que la gente deje de usar XD para reírse. La X y la D son números romanos así que si alguien se ríe sin usar el clásico “jajajaja” recibe una expulsión automática del chat porque sería una forma errónea de escribir 490 y Romanica no lo puede permitir.
+
+Alguien que hubiese vivido el momento en el que una persona puso XD en un chat mientras estaba el juego activo y lo contó como número romano podría pensar que yo no había caído en ello y por eso me sorprendió y me reí tanto. Y, por supuesto, tendría razón.
+
 **Puntuación:** XD / 10
 
 ---
