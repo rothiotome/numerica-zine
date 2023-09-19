@@ -412,6 +412,12 @@ por **Niv3k_el_pato**
 
 **Puntuación:** Ranita / 10
 
+Uno debe imaginar a Sísifo como Anita La Ranita, feliz; no por el cumplimiento de su tarea, sino por la lucha misma hacia la cima del poste telefónico.
+
+Incluso sabiendo su terrible final, Anita La Ranita continúa su lucha para proveer a sus 300 renacuajos y pagar la hipoteca. Al llegar a la cima y recibir el doloroso electrocutamiento, Anita La Ranita sonríe, sabiendo que este sufrimiento es un mal necesario para recibir la indemnización por accidente laboral.
+
+Con cada electrocución, el palo se hace imposiblemente más largo y aun asi Anita La Ranita continua con su lucha, siempre sonriendo y pensando en sus seres queridos.
+
 ---
 
 ## Mazerica
